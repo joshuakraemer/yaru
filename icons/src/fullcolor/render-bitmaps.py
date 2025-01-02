@@ -40,7 +40,7 @@ SOURCES = (
 )
 
 # DPI multipliers to render at
-DPIS = [1, 2]
+DPIS = [1, 2, 3]
 
 
 def main(args, SRC, DEST):
